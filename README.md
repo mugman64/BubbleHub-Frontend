@@ -58,7 +58,7 @@
 
 <header>
     <h1>BubbleHub</h1>
-    <p>Launcher inspirado en PS Vita LiveArea para Android</p>
+    <p>BubbleHub is an open-source emulation frontend that imitates PSVita's Live Area.</p>
 
     <a class="button" href="https://github.com/TU_USUARIO/TU_REPOSITORIO">
         Ver Repositorio
@@ -66,7 +66,7 @@
 </header>
 
 <section>
-    <h2>Capturas</h2>
+    <h2>Screenshots</h2>
 
     <div class="gallery">
         <img src="images/mockup1.png" alt="Mockup 1">
