@@ -19,7 +19,7 @@
 </section>
 
 <section>
-    <h2>Características</h2>
+    <h2>Features</h2>
 
     <p>🫧 Burbujas estilo PS Vita</p>
     <p>📱 Interfaz LiveArea moderna</p>
